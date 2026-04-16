@@ -6,6 +6,9 @@
 
 - ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/icaros1700/icaros1700)
 
+- ![GitHub top language](https://img.shields.io/github/languages/top/icaros1700/icaros1700)
+
+
 
 <!---
 icaros1700/icaros1700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
